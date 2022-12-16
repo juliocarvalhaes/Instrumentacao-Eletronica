@@ -112,5 +112,4 @@ void loop() {
   Serial.println("");
   delay(500);
 }
-message.txt
-3 KB
+
